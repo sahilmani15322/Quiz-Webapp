@@ -1,0 +1,25 @@
+body{
+            background-color: lightblue;
+            margin: 150px 600px 100px 400px;
+        }
+
+         header{
+            text-align:center;
+            color: white;
+            background-color:black;
+            height:50px;
+        }
+        form{
+            display: inline;
+
+        }
+        div.inner{
+            background-color:white;
+            padding-left:20px; 
+            padding-top: 20px;
+            padding-bottom: 10px;
+        }
+        p{
+            margin-left:140px;
+            margin-bottom: -10px;
+        }
